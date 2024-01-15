@@ -10,10 +10,12 @@ The objective for this project is two-fold:
 ## Quickstart Guide
 
 - Download the [Podcast Reviews Database](https://www.kaggle.com/datasets/thoughtvector/podcastreviews/versions/28)
-- Install dependencies and run the notebook.
+- Install dependencies.
 
     > pip install -r requirements.txt
-      jupyter notebook
+
+- Run the notebook.
+    > jupyter notebook
 
 
 
