@@ -13,7 +13,7 @@ The objective for this project is two-fold:
 - Install dependencies and run the notebook.
 
     > pip install -r requirements.txt
-    > jupyter notebook
+      jupyter notebook
 
 
 
