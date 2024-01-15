@@ -15,6 +15,7 @@ The objective for this project is two-fold:
      ```pip install -r requirements.txt```
 
 - Run the notebook.
+
      ```jupyter notebook```
 
 
