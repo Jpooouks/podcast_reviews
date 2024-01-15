@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+numpy
+notebook
+statsmodels
+scipy
+scikit-learn
+scikit_posthocs
