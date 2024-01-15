@@ -12,10 +12,10 @@ The objective for this project is two-fold:
 - Download the [Podcast Reviews Database](https://www.kaggle.com/datasets/thoughtvector/podcastreviews/versions/28)
 - Install dependencies.
 
-    > pip install -r requirements.txt
+     ```pip install -r requirements.txt```
 
 - Run the notebook.
-    > jupyter notebook
+     ```jupyter notebook```
 
 
 
